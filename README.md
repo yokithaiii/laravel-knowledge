@@ -77,5 +77,6 @@ Here's a high-level checklist to track progress:
 
 ---
 
-## 📁 Folder Structure
+## 🧷 License
 
+This project is open and free to use under the [MIT License](LICENSE).
